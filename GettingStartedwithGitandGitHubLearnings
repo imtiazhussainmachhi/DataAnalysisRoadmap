@@ -1,0 +1,24 @@
+🌐 Course: Introduction to Git and GitHub for DevOps & Cloud-Native Development
+Platform: Coursera
+Level: Beginner
+Estimated Duration: ~10–15 hours
+Link: (Add the actual link here if available)
+
+🧾 Course Summary:
+This course introduces the fundamentals of version control using Git and the role of GitHub in collaborative development workflows. Learners gain hands-on experience creating repositories and branches, performing pull requests, and managing merges—essential for modern DevOps pipelines and cloud-native development.
+
+The course emphasizes social coding, team collaboration, and building a professional portfolio by sharing open-source projects. It's ideal for those pursuing roles in DevOps, cloud computing, or agile software development.
+
+✅ What I Learned:
+Core version control concepts: repositories, commits, branches, and merges
+
+Working with GitHub: creating repos, forks, branches, pull requests
+
+How GitHub fits into CI/CD and DevOps pipelines
+
+Best practices in team collaboration using Git
+
+Built and shared an open-source project as part of a portfolio
+
+🛠️ Skills Gained:
+Git, GitHub, Version Control, DevOps Practices, Agile Methodologies, CI/CD, Cloud-Native Development, Containerization (Docker), Microservices, Scrum, Cloud Infrastructure, TDD, RESTful APIs
