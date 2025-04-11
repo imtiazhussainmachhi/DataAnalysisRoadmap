@@ -11,11 +11,4 @@ Welcome to my data analysis learning journey! This repository documents the cert
 5. Git & GitHub for Collaboration
 
 ## 📜 Certifications
-
-- [ ] Excel Skills for Business (Coursera)  
-- [ ] SQL for Data Science (Coursera)  
-- [ ] Data Visualization with Power BI (Coursera)  
-- [ ] Python for Everybody (Coursera)  
-
-**Certificates available in the `certificates/` folder.**
-
+**Certificates available in the main
