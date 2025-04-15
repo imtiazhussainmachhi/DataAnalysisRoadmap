@@ -21,8 +21,8 @@ https://coursera.org/share/8b09922d82eb8af8955eacb77b9405c3
 Everyday Excel, Part 3 (Projects)
 https://coursera.org/share/5700c49a9f462d1c580f58cb19bb8979
 
-Getting Started with Git and GitHub
+Excel for Beginners: Pivot Tables
 https://coursera.org/share/5700c49a9f462d1c580f58cb19bb8979
 
-Excel for Beginners: Pivot Tables
+Getting Started with Git and GitHub
 https://coursera.org/share/e19532f20b7efafc72a57edb2f017b4e
